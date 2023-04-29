@@ -1,1 +1,29 @@
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAAEECAYAAAC/cCaUAAAABmJLR0QA/wD/AP+gvaeTAAADW0lEQVR42u3dwW3aYACG4Z+KQboAHDxBmKSjhFHSSUIXsCp7ATpJeux7qdoDcUR4ngVsf4JX9sHyGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8EB2Jtje4Ti9WYH/cFqX+WKGbX0xAcAfoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQoggQOxNwa4fj9LbRoU7rMl8szi25UwQIUQQIUQQIUQQIUQQIUQQIUQQIUQQIUQQIUQSIvQm2dzhOr2OMp3s653WZ7/qV0MNxOo8xnu/stL3G+AHcKQKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKALE3gSPYV3m3YNf/3mMcfZL4F/cKQKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKAKEKALE3gS8g9NGx/lpam5NFLm5dZkvVuBeeXwGCFEECFEECFEECFEECFEECFEECFEECFEECG+0PIjDcTpb4e68rMt8NcO2RPFxPJvg7lzGGFczbMvjM0CIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkCIIkDsTfAhvo8xfnzi6/s2xvi6wXFexhi/PvGOV3+V7e1MwK0djtPrGONpg0Od1mW+WJxb8vgMEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIEKIIED5xynvY6hOuV1MDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB3vwFA3TE24RYP2QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAASdEVYdEVYSUY6T3JpZW50YXRpb24AMYRY7O8AAAAASUVORK5CYII=)
+<img src="https://a.uguu.se/OuVGcLCm.png" align="left" width=500 height=300> ChaTo is a webchat written in [PHP](https://www.php.net) and [JSON](https://www.json.org) for the purpose of bringing together friends who are no longer using famous communication platforms
+
+<sub>Written in English because it is the universal language.</sub>
+
+If you find a bug or want to discuss the best way to add a new feature, please
+open an [issue](https://github.com/chatoorg/ChaTo/issues).
+
+
+## Installation ##
+
+See this file for instructions:
+
+	README_install.txt ChaTo install/setup guide
+  
+
+## Sponsoring ##
+
+Fixing bugs and adding new features takes a lot of time and effort.  To show
+your appreciation for the work and motivate me and others to continue
+working on ChaTo please send a donation.
+
+
+## Main author ##
+
+Send any other comments, patches, flowers and suggestions to:
+	chatoorg @ GitHub <noemail>
+
+
+This is `README.md` for ChaTo: webchat for da homies
